@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Unity](https://img.shields.io/github/languages/top/erickjedi10/erickjedi10?color=gree&label=Javascript&logo=95&logoColor=95&style=flat-square)
+![Unity](https://img.shields.io/github/badge/Unity-3DDC84?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
 
 
 - 🔭 I’m currently working on ...
