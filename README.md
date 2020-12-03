@@ -1,4 +1,4 @@
-### Hi there 👋
+## I'm a Game and Web Developer Jr     👋
 ![](/Banner_Github(3).PNG)
 
 ## Skills</br>
@@ -7,10 +7,8 @@
 ![JS](https://img.shields.io/badge/Javascript-e62e1b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![HTML](https://img.shields.io/badge/HTML5-e62e1b?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS3-e62e1b?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![LAtex](https://img.shields.io/badge/LaTeX-e62e1b?style=for-the-badge&logo=latex&logoColor=white&labelColor=101010)
 
-
-
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-https://img.shields.io/npm/v/npm.svg?logo=javascript
+## Find me at:
+[![Linkedin](https://img.shields.io/badge/Linkedin-e62e1b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ema1991/)
 
