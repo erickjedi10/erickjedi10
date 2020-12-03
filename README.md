@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-![Unity](https://img.shields.io/badge/Unity-<LABEL>-<MESSAGE>-<COLOR>)
-https://img.shields.io/github/languages/top/erickjedi10/erickjedi10?color=gree&label=Javascript&logo=95&logoColor=95&style=flat-square
+![Unity](https://img.shields.io/github/languages/top/erickjedi10/erickjedi10?color=gree&label=Javascript&logo=95&logoColor=95&style=flat-square)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
