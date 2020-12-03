@@ -1,19 +1,16 @@
 ### Hi there 👋
 ![](/Banner_Github(3).PNG)
-<!--
-**erickjedi10/erickjedi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills</br>
+![Unity Engine](https://img.shields.io/badge/Unity-e62e1b?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/CSharp-e62e1b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)
+![JS](https://img.shields.io/badge/Javascript-e62e1b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![HTML](https://img.shields.io/badge/HTML5-e62e1b?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS3-e62e1b?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
-![Unity](https://img.shields.io/github/badge/Unity-3DDC84?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+https://img.shields.io/npm/v/npm.svg?logo=javascript
+
