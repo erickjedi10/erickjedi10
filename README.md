@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](erickjedi10/blob/main/Banner_Github.PNG)
+![](/Banner_Github.PNG)
 <!--
 **erickjedi10/erickjedi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
